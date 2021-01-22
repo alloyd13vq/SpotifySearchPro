@@ -1,0 +1,19 @@
+SpotifySearch
+|   app.js
+|   server.js
+|   spotify.json
+|....
+|___models
+|   |   Track.js
+|   |   User.js
+|___controllers
+|   |   tracks.js
+|   |   home.js
+|   |   user.js
+|___views
+|   | index.ejs
+|   | result.ejs
+|   | login-user.ejs
+|   | create-user.ejs
+|   | ...
+...
